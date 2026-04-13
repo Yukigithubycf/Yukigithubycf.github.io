@@ -84,21 +84,21 @@ const config = {
 			{ "title": "bg-2", "preview": "/img/wallpaper/static-mobile/bg-2/image-pre.png", "url": "/img/wallpaper/static-mobile/bg-2/image.png" },
 		],
 		video: [
-			{
-				"title": "尼尔：机械纪元 团队",
-				"preview": "/img/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team-pre.webm",
-				"url": "/img/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team.webm"
-			},
-			{
-				"title": "向往航天的女孩",
-				"preview": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
-				"url": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
-			},
-			{
-				"title": "世界很温柔《龙族》上杉绘梨衣",
-				"preview": "https://www.leleo.top/img/wallpaper/dynamic/%E4%B8%96%E7%95%8C%E5%BE%88%E6%B8%A9%E6%9F%94%E3%80%8A%E9%BE%99%E6%97%8F%E3%80%8B%E4%B8%8A%E6%9D%89%E7%BB%98%E6%A2%A8%E8%A1%A3/A2EF5E85-pre.webm",
-				"url": "https://www.leleo.top/img/wallpaper/dynamic/%E4%B8%96%E7%95%8C%E5%BE%88%E6%B8%A9%E6%9F%94%E3%80%8A%E9%BE%99%E6%97%8F%E3%80%8B%E4%B8%8A%E6%9D%89%E7%BB%98%E6%A2%A8%E8%A1%A3/A2EF5E85.webm"
-			},
+			// {
+			// 	"title": "尼尔：机械纪元 团队",
+			// 	"preview": "/img/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team-pre.webm",
+			// 	"url": "/img/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team.webm"
+			// },
+			// {
+			// 	"title": "向往航天的女孩",
+			// 	"preview": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
+			// 	"url": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
+			// },
+			// {
+			// 	"title": "世界很温柔《龙族》上杉绘梨衣",
+			// 	"preview": "https://www.leleo.top/img/wallpaper/dynamic/%E4%B8%96%E7%95%8C%E5%BE%88%E6%B8%A9%E6%9F%94%E3%80%8A%E9%BE%99%E6%97%8F%E3%80%8B%E4%B8%8A%E6%9D%89%E7%BB%98%E6%A2%A8%E8%A1%A3/A2EF5E85-pre.webm",
+			// 	"url": "https://www.leleo.top/img/wallpaper/dynamic/%E4%B8%96%E7%95%8C%E5%BE%88%E6%B8%A9%E6%9F%94%E3%80%8A%E9%BE%99%E6%97%8F%E3%80%8B%E4%B8%8A%E6%9D%89%E7%BB%98%E6%A2%A8%E8%A1%A3/A2EF5E85.webm"
+			// },
 		],
 		videoMobile: [
 			{
@@ -123,7 +123,7 @@ const config = {
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/projects/proj-a.jpg", title: "RAG", subtitle: "", text: "一个面向学术文献的私有知识库RAG智能问答系统.", url: "https://github.com/Yukigithubycf/WenyuanKnowledgeBase", show: false },
 		{ go: "🗂️ 前往", img: "/img/projects/proj-b.jpg", title: "WorkFlow", subtitle: "", text: "一个面向 AI Agent 的工作流编排系统.", url: "https://github.com/Yukigithubycf/AI-WorkFlow", show: false },
-		{ go: "📝 前往", img: "/img/projects/proj-c.jpg", title: "学习笔记", subtitle: "", text: "一些学习笔记.", url: "", show: false },
+		// { go: "📝 前往", img: "/img/projects/proj-c.jpg", title: "学习笔记", subtitle: "", text: "一些学习笔记.", url: "", show: false },
 		// { go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		// { go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		// { go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
