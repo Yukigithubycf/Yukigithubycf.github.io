@@ -65,7 +65,7 @@
           </v-row>
           
           <v-chip class="mt-3 ml-3" prepend-icon="mdi-webhook"  size="large" style="color: var(--leleo-vcard-color);">
-            项目与学习沉淀
+            项目
           </v-chip>
           <v-container>
             <v-row>
