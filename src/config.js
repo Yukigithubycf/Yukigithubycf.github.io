@@ -121,8 +121,8 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/projects/proj-a.jpg", title: "RAG", subtitle: "", text: "一个面向企业内部知识管理场景的私有知识库系统.", url: "https://github.com/Yukigithubycf/enterprise-private-rag-qa", show: false },
-		{ go: "🗂️ 前往", img: "/img/projects/proj-b.jpg", title: "WorkFlow", subtitle: "", text: "一个面向 AI Agent 的工作流编排系统.", url: "https://github.com/Yukigithubycf/AI-WorkFlow", show: false },
+		{ go: "🚀 前往", img: "/img/projects/proj-a.jpg", title: "RAG", subtitle: "", text: "一个面向企业内部知识管理场景的私有知识库问答平台.", url: "https://github.com/Yukigithubycf/enterprise-private-rag-qa", show: true },
+		{ go: "🗂️ 前往", img: "/img/projects/proj-b.jpg", title: "AstraFlow", subtitle: "", text: "一个面向复杂任务的智能体工作流编排平台.", url: "https://github.com/Yukigithubycf/AI-WorkFlow", show: true },
 		// { go: "📝 前往", img: "/img/projects/proj-c.jpg", title: "学习笔记", subtitle: "", text: "一些学习笔记.", url: "", show: false },
 		// { go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		// { go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
