@@ -8,7 +8,7 @@
 		"keywords": "Leleo,leleo,个人主页,个人网站",
 		"icon": "/favicon.ico"
 	},
-	"avatar": "/img/avatar.jpg",
+	"avatar": "/img_my/avatar.jpg",
 	"welcometitle": "Hi, I'm Leleo",
 	"color": {
 		"themecolor": "#FFFFFF",
@@ -24,16 +24,16 @@
 			"type": "pic",
 			"datainfo": {
 				"title": "海洋女孩",
-				"preview": "/img/wallpaper/static/海洋女孩/image-pre.webp",
-				"url": "/img/wallpaper/static/海洋女孩/image.png"
+				"preview": "/img_my/wallpaper/static/海洋女孩/image-pre.webp",
+				"url": "/img_my/wallpaper/static/海洋女孩/image.png"
 			}
 		},
 		"mobile": {
 			"type": "pic",
 			"datainfo": {
 				"title": "0001",
-				"preview": "/img/wallpaper/static-mobile/0001/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0001/image.png"
+				"preview": "/img_my/wallpaper/static-mobile/0001/image-pre.webp",
+				"url": "/img_my/wallpaper/static-mobile/0001/image.png"
 			}
 		}
 	},
@@ -69,62 +69,62 @@
 	"wallpaper": {
 		"pic": [{
 				"title": "海洋女孩",
-				"preview": "/img/wallpaper/static/海洋女孩/image-pre.webp",
-				"url": "/img/wallpaper/static/海洋女孩/image.png"
+				"preview": "/img_my/wallpaper/static/海洋女孩/image-pre.webp",
+				"url": "/img_my/wallpaper/static/海洋女孩/image.png"
 			}, {
 				"title": "书房夜晚",
-				"preview": "/img/wallpaper/static/书房夜晚/image-pre.webp",
-				"url": "/img/wallpaper/static/书房夜晚/image.png"
+				"preview": "/img_my/wallpaper/static/书房夜晚/image-pre.webp",
+				"url": "/img_my/wallpaper/static/书房夜晚/image.png"
 			}, {
 				"title": "安逸舒适",
-				"preview": "/img/wallpaper/static/安逸舒适/image-pre.webp",
-				"url": "/img/wallpaper/static/安逸舒适/image.png"
+				"preview": "/img_my/wallpaper/static/安逸舒适/image-pre.webp",
+				"url": "/img_my/wallpaper/static/安逸舒适/image.png"
 			}
 		],
 		"picMobile": [{
 				"title": "0001",
-				"preview": "/img/wallpaper/static-mobile/0001/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0001/image.png"
+				"preview": "/img_my/wallpaper/static-mobile/0001/image-pre.webp",
+				"url": "/img_my/wallpaper/static-mobile/0001/image.png"
 			}, {
 				"title": "0002",
-				"preview": "/img/wallpaper/static-mobile/0002/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0002/image.png"
+				"preview": "/img_my/wallpaper/static-mobile/0002/image-pre.webp",
+				"url": "/img_my/wallpaper/static-mobile/0002/image.png"
 			}, {
 				"title": "0003",
-				"preview": "/img/wallpaper/static-mobile/0003/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0003/image.png"
+				"preview": "/img_my/wallpaper/static-mobile/0003/image-pre.webp",
+				"url": "/img_my/wallpaper/static-mobile/0003/image.png"
 			}, {
 				"title": "0004",
-				"preview": "/img/wallpaper/static-mobile/0004/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0004/image.png"
+				"preview": "/img_my/wallpaper/static-mobile/0004/image-pre.webp",
+				"url": "/img_my/wallpaper/static-mobile/0004/image.png"
 			}
 		],
 		"video": [{
 			"title": "尼尔：机械纪元 团队",
-			"preview": "/img/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team-pre.webm",
-			"url": "/img/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team.webm"
+			"preview": "/img_my/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team-pre.webm",
+			"url": "/img_my/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team.webm"
 		}, {
 			"title": "向往航天的女孩",
-			"preview": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
-			"url": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
+			"preview": "/img_my/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
+			"url": "/img_my/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
 		}],
 		"videoMobile": [{
 			"title": "幻觉镇-gaako_illust",
-			"preview": "/img/wallpaper/dynamic-mobile/幻觉镇-gaako_illust/Hallucination_town-pre.mp4",
-			"url": "/img/wallpaper/dynamic-mobile/幻觉镇-gaako_illust/Hallucination_town.mp4"
+			"preview": "/img_my/wallpaper/dynamic-mobile/幻觉镇-gaako_illust/Hallucination_town-pre.mp4",
+			"url": "/img_my/wallpaper/dynamic-mobile/幻觉镇-gaako_illust/Hallucination_town.mp4"
 		}, {
 			"title": "chuva",
-			"preview": "/img/wallpaper/dynamic-mobile/chuva/chuva-pre.mp4",
-			"url": "/img/wallpaper/dynamic-mobile/chuva/chuva.mp4"
+			"preview": "/img_my/wallpaper/dynamic-mobile/chuva/chuva-pre.mp4",
+			"url": "/img_my/wallpaper/dynamic-mobile/chuva/chuva.mp4"
 		}, {
 			"title": "Doodle-小猫女仆降临",
-			"preview": "/img/wallpaper/dynamic-mobile/Doodle-小猫女仆降临/d12-pre.mp4",
-			"url": "/img/wallpaper/dynamic-mobile/Doodle-小猫女仆降临/d12.mp4"
+			"preview": "/img_my/wallpaper/dynamic-mobile/Doodle-小猫女仆降临/d12-pre.mp4",
+			"url": "/img_my/wallpaper/dynamic-mobile/Doodle-小猫女仆降临/d12.mp4"
 		}]
 	},
 	"projectcards": [{
 		"go": "🚀 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 1",
 		"subtitle": "1,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
@@ -132,7 +132,7 @@
 		"show": false
 	}, {
 		"go": "🗂️ 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 2",
 		"subtitle": "2,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
@@ -140,7 +140,7 @@
 		"show": false
 	}, {
 		"go": "📝 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 3",
 		"subtitle": "3,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
@@ -148,7 +148,7 @@
 		"show": false
 	}, {
 		"go": "👍 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 4",
 		"subtitle": "4,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
@@ -156,7 +156,7 @@
 		"show": false
 	}, {
 		"go": "🗃 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 5",
 		"subtitle": "5,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
@@ -164,7 +164,7 @@
 		"show": false
 	}, {
 		"go": "🎨 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 6",
 		"subtitle": "6,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
@@ -172,7 +172,7 @@
 		"show": false
 	}, {
 		"go": "💍 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 7",
 		"subtitle": "7,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
@@ -180,7 +180,7 @@
 		"show": false
 	}, {
 		"go": "🔍 前往",
-		"img": "/img/sunshine.jpg",
+		"img": "/img_my/sunshine.jpg",
 		"title": "Project 8",
 		"subtitle": "8,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",

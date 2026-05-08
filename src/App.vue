@@ -199,7 +199,7 @@
                 <v-tooltip location="top">
                   <template v-slot:activator="{ props }">
                     <v-btn v-bind="props" rounded="lg" class="ma-1 stack-btn" size="35">
-                      <v-avatar image="/img/stackicon/vite.svg" rounded="0" size="23"></v-avatar>
+                      <v-avatar image="/img_my/stackicon/vite.svg" rounded="0" size="23"></v-avatar>
                     </v-btn>
                   </template>
                   <span>vite</span>
@@ -215,7 +215,7 @@
                 <v-tooltip location="top">
                   <template v-slot:activator="{ props }">
                     <v-btn v-bind="props" rounded="lg" class="ma-1 stack-btn" size="35">
-                      <v-avatar image="/img/stackicon/mdi.svg" rounded="0" size="35"></v-avatar>
+                      <v-avatar image="/img_my/stackicon/mdi.svg" rounded="0" size="35"></v-avatar>
                     </v-btn>
                   </template>
                   <span>mdi</span>
@@ -223,7 +223,7 @@
                 <v-tooltip location="top">
                   <template v-slot:activator="{ props }">
                     <v-btn v-bind="props" rounded="lg" class="ma-1 stack-btn" size="35">
-                      <v-avatar image="/img/stackicon/chartjs.png" rounded="0" size="23"></v-avatar>
+                      <v-avatar image="/img_my/stackicon/chartjs.png" rounded="0" size="23"></v-avatar>
                     </v-btn>
                   </template>
                   <span>chartjs</span>
@@ -231,7 +231,7 @@
                 <v-tooltip location="top">
                   <template v-slot:activator="{ props }">
                     <v-btn v-bind="props" rounded="lg" class="ma-1 stack-btn" size="35" color="#0F1225">
-                      <v-avatar image="/img/stackicon/meting.png" rounded="0" size="23"></v-avatar>
+                      <v-avatar image="/img_my/stackicon/meting.png" rounded="0" size="23"></v-avatar>
                     </v-btn>
                   </template>
                   <span>meting</span>
@@ -239,7 +239,7 @@
                 <v-tooltip location="top">
                   <template v-slot:activator="{ props }">
                     <v-btn v-bind="props" rounded="lg" class="ma-1 stack-btn" size="35" color="#070707">
-                      <v-avatar image="/img/stackicon/uiverse.png" rounded="0" size="23"></v-avatar>
+                      <v-avatar image="/img_my/stackicon/uiverse.png" rounded="0" size="23"></v-avatar>
                     </v-btn>
                   </template>
                   <span>uiverse</span>

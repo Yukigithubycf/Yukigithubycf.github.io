@@ -1,4 +1,4 @@
-import homeright from '../src/components/hoemright.vue';
+import homeright from './components/hoemright.vue';
 import typewriter from './components/typewriter.vue';
 import tab1 from './components/tabs/tab1.vue';
 import tab2 from './components/tabs/tab2.vue';
